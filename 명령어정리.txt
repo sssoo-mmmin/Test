@@ -1,0 +1,14 @@
+LINUX
+cd: 디렉토리 들어가기
+mkdir: 디렉토리 생성
+rm: 삭제(파일, 디렉토리 등)
+
+GIT
+git add -> 달라진 파일이나 생성된 파일 체크
+git commit -m “message” -> add로 체크한 파일에 메시지 넣어서 올릴준비(?)
+git push origin branchname -> 원격저장소의 브랜치에 commit한 내용 업로드
+git pull origin branchname -> 원격저장소의 브랜치에서 변경사항 로컬저장소에 내려받기
+git merge -> 이건 다른 사람과 같이 진행할 때 각자 수정하고 한꺼번에 올려서 소스코드 충돌날 때 사용했던것같음.. 다음에 필요할 때 다시 학습할것
+git clone -> 다른 사람의 프로젝트 복사해올 때 사용
+
+다른건 추후에.. 필요할 때 정리 예정.............
